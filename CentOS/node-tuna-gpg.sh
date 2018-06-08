@@ -1,0 +1,1 @@
+wget -O /etc/pki/rpm-gpg/NODESOURCE-GPG-SIGNING-KEY-EL https://mirrors.tuna.tsinghua.edu.cn/nodesource/rpm/el/NODESOURCE-GPG-SIGNING-KEY-EL
