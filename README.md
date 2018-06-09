@@ -6,3 +6,4 @@
 {发行版}/software/ 此处存放安装软件的脚本  
 Install/panel 此处存放安装面板的脚本  
 Install/daemon 此处存放安装后端的脚本  
+我们的QQ交流群：515336359
